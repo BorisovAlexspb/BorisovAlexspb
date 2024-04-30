@@ -13,7 +13,7 @@
  </div>
 
 <div>
-  <h3> hammer_and_wrench: Languages and Tools </h3>
+  <h3> :hammer_and_wrench: Languages and Tools </h3>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -25,6 +25,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original-wordmark.svg" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+</div>
+
+<div>
+  ### :fire: Моя статистика :
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisovAlexspb)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **BorisovAlexspb/BorisovAlexspb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
