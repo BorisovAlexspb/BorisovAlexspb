@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  <h3>:fire: Моя статистика :</h3>
+  <h3>:fire: Моя статистика </h3>
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=BorisovAlexspb)](https://git.io/streak-stats)
 </div>
