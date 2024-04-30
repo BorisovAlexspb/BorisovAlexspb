@@ -2,7 +2,7 @@
 <div id="header" align="center">
   
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&color=000000&random=false&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)
+<img src = "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&color=000000&random=false&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)" />
 
  <div>
    Учусь в ИТМО, 3 курс по направлению Программная инженерия и компьютерная техника (ПИиКТ), Системное и прикладное программное обеспечение (СППО).
