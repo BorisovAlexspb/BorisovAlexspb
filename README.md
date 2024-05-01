@@ -29,7 +29,7 @@
 
 <div>
   <h3>:fire: Моя статистика </h3>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisovAlexspb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisovAlexspb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
