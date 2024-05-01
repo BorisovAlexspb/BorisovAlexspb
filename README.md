@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=000000&random=false&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=000000&random=false&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5" alt="Typing SVG" /></a>
  <div>
    Учусь в Санкт-Петербургском политехническом университете Петра Великого (СПбПУ), 3 курс по направлению Информационные системы и технологии (ИСИТ), Институт компьютерных наук и кибербезопасности(ИКНК).
 
