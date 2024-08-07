@@ -1,10 +1,4 @@
 <div id="header" align="center">
-  
-</div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=000000&random=false&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5" alt="Typing SVG" /></a>
- <div>
-![](https://komarev.com/ghpvc/?username=BorisovAlexspb)
- </div>
 
 <div>
   <h3> :hammer_and_wrench: Languages and Tools </h3>
